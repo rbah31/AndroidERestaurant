@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Food</string>
+
+    <string name="home_entries">Entrées</string>
+    <string name="home_dishes">Plats</string>
+    <string name="home_deserts">Desserts</string>
+
+    <string name="error">Erreur : Veuillez ressaisir le champ.</string>
+</resources>
